@@ -60,7 +60,7 @@ flutter代码多了，需要考虑重用问题，沉淀一些东西出来，封�
       <td align="center" valign="top">
         <img height="80" width="80" src="https://avatars2.githubusercontent.com/u/3379261?s=128">
         <br>
-        <a href="https://github.com/ckken">共田君</a>
+        <a href="https://github.com/Natoto">共田君</a>
       </td>
      </tr>
   </tbody>

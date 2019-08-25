@@ -7,7 +7,7 @@ Widgets 入门文章：
 | Basic widgets （基础控件）| Material Components （材料设计组件）| Cupertino (iOS风格控件)| Layout（布局）|
 | Text（文本）| Assets、Images、Icon （资源 图片 图标）| Input （输入）| Animation and motion（动画和动效）|
 | Interaction model （交互模型）| Styling （样式） | Painting and effect（绘制和效果）| Async（异步）|
-| Scrolling （滑动） | Accessibility（辅助无障碍）| - | - |
+| Scrolling （滑动） | Accessibility（辅助功能）| - | - |
 
 推文：
 

@@ -66,15 +66,16 @@ TextAlign.end-与容器末的边缘对齐.TextDirection.ltr模式右边缘为尾
 ```dart
 TextDirection.rtl-文字从右到左显示
 TextDirection.ltr-文字从左到右显示
-复制代码
-textScaleFactor:字体像素缩放因子.例如1.5就会比原来字体大50%
-textSpan:textSpan中的文本可以单独设置样式,text中可以嵌入多个textSpan.
-textWidthBasis:一行或多行文本占用宽度的方式.
+```
 
+- textScaleFactor:字体像素缩放因子.例如1.5就会比原来字体大50%
+- textSpan:textSpan中的文本可以单独设置样式,text中可以嵌入多个textSpan.
+- textWidthBasis:一行或多行文本占用宽度的方式.
+
+```dart
 TextWidthBasis.parent-多行文本将占用父级给出的全宽,对于单行文本，将仅使用包含文本所需的最小宽度
 TextWidthBasis.longestLine-宽度将使用最长的行宽度
 ```
-
 
 ### 用法
 

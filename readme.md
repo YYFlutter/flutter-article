@@ -5,7 +5,7 @@ Widgets 入门文章：
 |--|--|--|--|
 |---|---|---|---|
 | [Basic widgets （基础控件）](/article/basicWidgets)| [Material Components （材料设计组件）](/article/material)| [Cupertino (iOS风格控件)](/article/cupertino)| Layout（布局）|
-| [Text（文本）](/article/text/Flutter-Text%E4%BD%BF%E7%94%A8.md)| Assets、Images、Icon （资源 图片 图标）| Input （输入）| Animation and motion（动画和动效）|
+| [Text（文本）](/article/text/Flutter-Text%E4%BD%BF%E7%94%A8.md)| [Assets、Images、Icon （资源 图片 图标）](/article/assets%26images%26icon)| Input （输入）| Animation and motion（动画和动效）|
 | [Interaction model （交互模型）](/article/interactionModel)| [Styling （样式）](/article/styling) | Painting and effect（绘制和效果）| Async（异步）|
 | Scrolling （滑动） | Accessibility（辅助功能）| - | - |
 

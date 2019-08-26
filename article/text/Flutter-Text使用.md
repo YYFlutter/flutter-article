@@ -124,7 +124,7 @@ textWidthBasis: TextWidthBasis.longestLine,
 ),
 ```
 
-[图1](https://user-gold-cdn.xitu.io/2019/8/7/16c6b5738f62067a?imageView2/0/w/1280/h/960/ignore-error/1)
+![图1](https://user-gold-cdn.xitu.io/2019/8/7/16c6b5738f62067a?imageView2/0/w/1280/h/960/ignore-error/1)
 
 #### 与text交互
 
@@ -358,4 +358,4 @@ forceStrutHeight: true,
 
 #### 全部运行效果图:
 
-[全部运行效果图](https://user-gold-cdn.xitu.io/2019/8/7/16c6b9a92b103247?imageView2/0/w/1280/h/960/ignore-error/1)
+![全部运行效果图](https://user-gold-cdn.xitu.io/2019/8/7/16c6b9a92b103247?imageView2/0/w/1280/h/960/ignore-error/1)

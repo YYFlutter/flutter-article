@@ -33,6 +33,11 @@ Widgets 入门文章：
         <br>
         <a href="https://github.com/Natoto">共田君</a>
       </td>
+       <td align="center" valign="top">
+        <img height="80" width="80" src="https://avatars2.githubusercontent.com/u/13517055?s=460&v=4">
+        <br>
+        <a href="https://github.com/xiaosong520">xiaosongzeem</a>
+      </td>
      </tr>
   </tbody>
 </table>

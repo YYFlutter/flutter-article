@@ -65,7 +65,7 @@ MediaQuery({Key key, @required MediaQueryData data, @required Widget child })
 
 #### ~~3. MediaQuery.removeViewPadding~~ Google API 文档还有该方法，但是源码已找不到了，估计是代码已被删除但文档尚未更新。
 
-从上述几个工厂构造函数的源码我们不难看出，实际上工厂函数其实也是通过MediaQuery.of(context)方法获取MediaQueryData 对象，然后操作MediaQueryData 对象的对应方法，去设置相关属性值，至于这两个工厂构造函数的具体作用，大家有兴趣的同学可以查阅MediaQueryData的相应源代码，或者看这篇文章：==TODO MediaQueryData 文章链接==。
+从上述几个工厂构造函数的源码我们不难看出，实际上工厂函数其实也是通过MediaQuery.of(context)方法获取MediaQueryData 对象，然后操作MediaQueryData 对象的对应方法，去设置相关属性值，至于这两个工厂构造函数的具体作用，大家有兴趣的同学可以查阅MediaQueryData的相应源代码，或者看这篇文章：[《Flutter 基础之 MediaQueryData》](https://github.com/YYFlutter/flutter-article/blob/master/article/styling/Flutter%20%E5%9F%BA%E7%A1%80%E4%B9%8B%20MediaQueryData.md)
 
 ## 常用方法
 - debugFillProperties(DiagnosticPropertiesBuilder properties) → void **添加与节点关联的其他属性。**
@@ -78,8 +78,7 @@ MediaQuery({Key key, @required MediaQueryData data, @required Widget child })
 
 data → MediaQueryData 
 
-//==TODO MediaQueryData 文章链接==
-
+[点我查看MediaQueryData 详细介绍](https://github.com/YYFlutter/flutter-article/blob/master/article/styling/Flutter%20%E5%9F%BA%E7%A1%80%E4%B9%8B%20MediaQueryData.md)
 
 示例：
 

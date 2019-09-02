@@ -41,9 +41,26 @@ Widgets 入门文章：
      </tr>
   </tbody>
 </table>
-### 如何找到我们
 
-**QQ**<br />
-<img width="150px" src="https://i.loli.net/2019/09/02/jQWIKES5yVz1mga.png" />
-**微信公众号**<br />
-<img width="150px" src="https://i.loli.net/2019/09/02/sc312Tp69rIStgF.jpg" />
+### 如何找到我们
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top">
+        <img height="150px" width="150px" src="https://i.loli.net/2019/09/02/jQWIKES5yVz1mga.png">
+        <p>qq</p>
+      </td>
+      <td align="center" valign="top">
+        <img height="150px" width="150px" src="https://i.loli.net/2019/09/02/sc312Tp69rIStgF.jpg">
+        <p>微信公众号</p>
+      </td>
+     </tr>
+  </tbody>
+</table>
+
+
+**掘金**<br />
+[YYDEV](https://juejin.im/user/570298251ea493005c83a2b2)
+<br />
+**知乎**<br />
+[EFOX](https://zhuanlan.zhihu.com/efoxteam)

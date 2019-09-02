@@ -41,3 +41,9 @@ Widgets 入门文章：
      </tr>
   </tbody>
 </table>
+### 如何找到我们
+
+**QQ**<br />
+<img width="150px" src="https://i.loli.net/2019/09/02/jQWIKES5yVz1mga.png" />
+**微信公众号**<br />
+<img width="150px" src="https://i.loli.net/2019/09/02/sc312Tp69rIStgF.jpg" />

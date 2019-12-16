@@ -51,7 +51,7 @@ Widgets 入门文章：
         <p>qq</p>
       </td>
       <td align="center" valign="top">
-        <img height="150px" width="150px" src="https://i.loli.net/2019/09/02/sc312Tp69rIStgF.jpg">
+        <img height="150px" width="400px" src="https://upload-images.jianshu.io/upload_images/4835249-86fc73bef3b2a574.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240">
         <p>微信公众号</p>
       </td>
      </tr>
